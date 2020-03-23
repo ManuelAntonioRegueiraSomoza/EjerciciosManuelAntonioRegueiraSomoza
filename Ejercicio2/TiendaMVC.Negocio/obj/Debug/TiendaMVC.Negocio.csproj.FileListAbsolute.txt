@@ -1,0 +1,9 @@
+C:\Users\manuel.regueirasomoz\source\repos\Ejercicio2\TiendaMVC.Negocio\bin\Debug\TiendaMVC.Negocio.dll
+C:\Users\manuel.regueirasomoz\source\repos\Ejercicio2\TiendaMVC.Negocio\bin\Debug\TiendaMVC.Negocio.pdb
+C:\Users\manuel.regueirasomoz\source\repos\Ejercicio2\TiendaMVC.Negocio\bin\Debug\TiendaMVC.Datos.dll
+C:\Users\manuel.regueirasomoz\source\repos\Ejercicio2\TiendaMVC.Negocio\bin\Debug\TiendaMVC.Datos.pdb
+C:\Users\manuel.regueirasomoz\source\repos\Ejercicio2\TiendaMVC.Negocio\obj\Debug\TiendaMVC.Negocio.csprojAssemblyReference.cache
+C:\Users\manuel.regueirasomoz\source\repos\Ejercicio2\TiendaMVC.Negocio\obj\Debug\TiendaMVC.Negocio.csproj.CoreCompileInputs.cache
+C:\Users\manuel.regueirasomoz\source\repos\Ejercicio2\TiendaMVC.Negocio\obj\Debug\TiendaMVC.Negocio.csproj.CopyComplete
+C:\Users\manuel.regueirasomoz\source\repos\Ejercicio2\TiendaMVC.Negocio\obj\Debug\TiendaMVC.Negocio.dll
+C:\Users\manuel.regueirasomoz\source\repos\Ejercicio2\TiendaMVC.Negocio\obj\Debug\TiendaMVC.Negocio.pdb

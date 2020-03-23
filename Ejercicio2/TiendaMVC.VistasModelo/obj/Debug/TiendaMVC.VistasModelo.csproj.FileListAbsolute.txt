@@ -1,0 +1,5 @@
+C:\Users\manuel.regueirasomoz\source\repos\Ejercicio2\TiendaMVC.VistasModelo\bin\Debug\TiendaMVC.VistasModelo.dll
+C:\Users\manuel.regueirasomoz\source\repos\Ejercicio2\TiendaMVC.VistasModelo\bin\Debug\TiendaMVC.VistasModelo.pdb
+C:\Users\manuel.regueirasomoz\source\repos\Ejercicio2\TiendaMVC.VistasModelo\obj\Debug\TiendaMVC.VistasModelo.csproj.CoreCompileInputs.cache
+C:\Users\manuel.regueirasomoz\source\repos\Ejercicio2\TiendaMVC.VistasModelo\obj\Debug\TiendaMVC.VistasModelo.dll
+C:\Users\manuel.regueirasomoz\source\repos\Ejercicio2\TiendaMVC.VistasModelo\obj\Debug\TiendaMVC.VistasModelo.pdb

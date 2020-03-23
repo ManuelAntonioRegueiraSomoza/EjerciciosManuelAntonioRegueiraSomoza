@@ -1,0 +1,11 @@
+C:\Users\manuel.regueirasomoz\source\repos\Tienda.Datos\bin\Debug\Tienda.Datos.dll
+C:\Users\manuel.regueirasomoz\source\repos\Tienda.Datos\bin\Debug\Tienda.Datos.pdb
+C:\Users\manuel.regueirasomoz\source\repos\Tienda.Datos\obj\Debug\Tienda.Datos.csprojAssemblyReference.cache
+C:\Users\manuel.regueirasomoz\source\repos\Tienda.Datos\obj\Debug\Tienda.Datos.csproj.CoreCompileInputs.cache
+C:\Users\manuel.regueirasomoz\source\repos\Tienda.Datos\obj\Debug\Tienda.Datos.dll
+C:\Users\manuel.regueirasomoz\source\repos\Tienda.Datos\obj\Debug\Tienda.Datos.pdb
+C:\Users\manuel.regueirasomoz\Desktop\EjercicioTema2\Ejercicio1\Tienda.Datos\bin\Debug\Tienda.Datos.dll
+C:\Users\manuel.regueirasomoz\Desktop\EjercicioTema2\Ejercicio1\Tienda.Datos\bin\Debug\Tienda.Datos.pdb
+C:\Users\manuel.regueirasomoz\Desktop\EjercicioTema2\Ejercicio1\Tienda.Datos\obj\Debug\Tienda.Datos.csproj.CoreCompileInputs.cache
+C:\Users\manuel.regueirasomoz\Desktop\EjercicioTema2\Ejercicio1\Tienda.Datos\obj\Debug\Tienda.Datos.dll
+C:\Users\manuel.regueirasomoz\Desktop\EjercicioTema2\Ejercicio1\Tienda.Datos\obj\Debug\Tienda.Datos.pdb
